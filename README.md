@@ -2,12 +2,11 @@
 
 Bank Functionalities <br/>
 ------------------------<br/>
-Asks user for log in account information such as First name, Last Name and Pin number. Searches through TextFile Database for matches<br/>
-and retrieves the correspoding matching account. <br/>
+Asks user for log in account information such as First name, Last Name and Pin number. Searches through TextFile Database located in the resources folder for matches and retrieves the correspoding matching account. <br/>
 
 The text file Data Base is layed out in the following format<br/>
 
-FirstName,LastName,PinNumber,Accountbalance,LastTrasaction<br/>
+#FirstName,LastName,PinNumber,Accountbalance,LastTrasaction<br/>
 
 --Once the Account is correctly matched and retrieved, it presents the user with a menu of options.
 
