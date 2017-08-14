@@ -18,12 +18,11 @@ FirstName,LastName,PinNumber,Accountbalance,LastTrasaction<br/>
 
 The User can do this as many times during a their session. 
 
-Once they log out. The Account data and updated balance and transaction is updated in the textFile DataBase.
+Once they log out. The Account data, updated balance, & transaction is updated in the textFile DataBase.
 The user will be presented to log back in to their account again if they choose to or another user can log in.
-----------------------------<br/>
+-------------------------------------------------------------------<br/>
 
-The application has custom expection classes that prevents user from withrawing to much if they dont have enough funds or if they dont
-input the correct menu item option.
+The application has custom expection classes that prevents user from withrawing to much if they dont have enough funds or if they dont input the correct menu item option.
 
 
 
